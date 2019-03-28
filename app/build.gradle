@@ -3,8 +3,8 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.mobile_task_1_2_clicker"
-        minSdkVersion 15
+        applicationId "com.example.myapplication_1"
+        minSdkVersion 28
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
